@@ -1,0 +1,17 @@
+.view {
+  margin-top: 7.5vh;
+  border: 1.5vh solid #cdcbd6;
+  padding-top: 3.5vh;
+  border-bottom: 0;
+  border-right: 0;
+  border-top: 0;
+  background-image: url(../images/view-background.jpg);
+  background-color: #aeb4dc;
+  width: 90vh;
+  height: 75vh;
+  margin-bottom: 52px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+}

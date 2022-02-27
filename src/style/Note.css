@@ -1,0 +1,20 @@
+.note {
+  background-color: rgb(158, 156, 156);
+  border: none;
+  width: 25vh;
+  height: 25vh;
+  margin-left: 1vh;
+  margin-bottom: 1vh;
+  margin-top: 0;
+}
+
+.notePreview {
+  width: 10vh;
+  height: 10vh;
+}
+
+.notePreview > p {
+  margin-left: 1vh;
+  font-size: 2vh;
+  color: rgb(39, 38, 38);
+}

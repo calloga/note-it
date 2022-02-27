@@ -1,0 +1,12 @@
+.menu {
+  margin-top: 6.5vh;
+  border: 0.5px solid #b8beee;
+  background-color: #9ca2c9;
+  border-radius: 1vh;
+  width: 35vh;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

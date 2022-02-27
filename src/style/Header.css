@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0.1vh 0vh 0.5vh 0vh;
+  background-color: white;
+  border: none;
+  height: fit-content;
+}
+
+.header > h1 {
+  margin: 0;
+  font-size: 3.25vh;
+  font-weight: normal;
+  color: #707070;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
