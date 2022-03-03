@@ -1,11 +1,14 @@
 .note {
-  background-color: rgb(158, 156, 156);
+  background: #9ca2c9;
+  opacity: 45%;
   border: none;
-  width: 25vh;
-  height: 25vh;
-  margin-left: 1vh;
+  width: 80vh;
+  height: 70vh;
+  margin-left: 4vh;
   margin-bottom: 1vh;
   margin-top: 0;
+  border-radius: 0.5vh;
+  box-shadow: 0px 0px 5px 2px rgb(150, 150, 150);
 }
 
 .notePreview {
@@ -16,5 +19,6 @@
 .notePreview > p {
   margin-left: 1vh;
   font-size: 2vh;
-  color: rgb(39, 38, 38);
+  color: rgb(0, 0, 0);
+  opacity: 100%;
 }
